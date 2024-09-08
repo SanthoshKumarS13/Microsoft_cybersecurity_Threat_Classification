@@ -4,7 +4,7 @@
 
 This project focuses on developing a **machine learning classification model** to enhance the cybersecurity operations at **Microsoft**, particularly in **Security Operation Centers (SOCs)**. The primary goal was to classify cybersecurity incidents into categories such as **True Positive (TP)**, **Benign Positive (BP)**, and **False Positive (FP)** with high accuracy. 
 
-By applying cutting-edge machine learning techniques and extensive data preprocessing, I achieved an **accuracy of 98%** in classifying incidents. This model greatly improves the incident triage process and response automation, streamlining the work of SOC analysts by providing real-time, context-rich recommendations.
+By applying cutting-edge machine learning techniques and extensive data preprocessing, I achieved an **accuracy of 93%** in classifying incidents. This model greatly improves the incident triage process and response automation, streamlining the work of SOC analysts by providing real-time, context-rich recommendations.
 
 ## **Skills Gained**
 
@@ -16,7 +16,7 @@ Through this project, I gained experience in:
 - **Handling Imbalanced Datasets**: Techniques such as **SMOTE** and class-weight adjustments to handle class imbalances and improve model performance.
 - **Model Optimization**: Hyperparameter tuning and cross-validation to maximize accuracy and model efficiency.
 
-The model’s **98% accuracy** demonstrates its ability to significantly enhance SOC workflows, reducing false positives and improving response times to security threats.
+The model’s **93% accuracy** demonstrates its ability to significantly enhance SOC workflows, reducing false positives and improving response times to security threats.
 
 ## **Project Problem Statement**
 
@@ -44,6 +44,6 @@ The final machine learning model can be deployed within **Microsoft’s SOC syst
 
 ## **Conclusion**
 
-This project showcases the significant role that **machine learning** can play in automating and improving **cybersecurity operations**. By achieving an **accuracy of 98%** in classifying incidents, the model helps **SOC analysts** at Microsoft to better manage and respond to security incidents, ultimately enhancing the overall security posture of enterprise environments. The automation of incident triage with this model provides a scalable solution for enterprise security, reducing manual workload and enabling quicker threat mitigation.
+This project showcases the significant role that **machine learning** can play in automating and improving **cybersecurity operations**. By achieving an **accuracy of 93%** in classifying incidents, the model helps **SOC analysts** at Microsoft to better manage and respond to security incidents, ultimately enhancing the overall security posture of enterprise environments. The automation of incident triage with this model provides a scalable solution for enterprise security, reducing manual workload and enabling quicker threat mitigation.
 
 With further tuning, this model could serve as a foundational tool for **enterprise-level cybersecurity defense**, making SOC operations more efficient and accurate.
