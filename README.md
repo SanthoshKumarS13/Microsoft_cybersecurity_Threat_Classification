@@ -36,7 +36,7 @@ The dataset provided by **Microsoft** contained detailed cybersecurity incidents
 
 - **Accurate Triage Prediction**: The machine learning model predicts whether a cybersecurity incident is **true positive**, **benign positive**, or **false positive**.
 - **Automation for SOC Analysts**: The model is designed to be integrated into SOC workflows, providing analysts with real-time insights and actionable recommendations.
-- **98% Accuracy**: The high accuracy ensures that the model can reliably handle real-world scenarios and effectively supports SOC decision-making processes.
+- **93% Accuracy**: The high accuracy ensures that the model can reliably handle real-world scenarios and effectively supports SOC decision-making processes.
 
 ## **Deployment**
 
