@@ -13,7 +13,7 @@ Through this project, I gained experience in:
 - **Machine Learning Classification Algorithms**: Implementing algorithms like **Random Forest**, **XGBoost**, and **Neural Networks** to solve classification problems.
 - **Model Evaluation Metrics**: Using performance metrics such as **Macro-F1 Score**, **Precision**, and **Recall** to ensure balanced performance across all classes.
 - **Cybersecurity Concepts**: Understanding frameworks like **MITRE ATT&CK** to ensure that the model aligns with real-world security scenarios.
-- **Handling Imbalanced Datasets**: Techniques such as **SMOTE** and class-weight adjustments to handle class imbalances and improve model performance.
+- **Handling Imbalanced Datasets**: Techniques such as **SMOTE** and undersampeling.
 - **Model Optimization**: Hyperparameter tuning and cross-validation to maximize accuracy and model efficiency.
 
 The model’s **93% accuracy** demonstrates its ability to significantly enhance SOC workflows, reducing false positives and improving response times to security threats.
